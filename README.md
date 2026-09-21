@@ -53,3 +53,10 @@ Python, TensorFlow/Keras, NumPy, Matplotlib, Scikit-learn, Seaborn
 ## Conclusion
 
 MobileNetV2 achieved **81% accuracy**, compared with **70%** for the CNN model.
+
+# Future Improvements
+•	Data augmentation
+•	Fine-tuning MobileNetV2
+•	Hyperparameter tuning
+•	Testing other pretrained models
+
